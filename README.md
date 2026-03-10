@@ -3,12 +3,13 @@
 Personal portfolio website for **Ishan Shaibya**.
 
 ## Sections included
-- Hero / Name
+- Hero / Name + profile image
 - Education
 - Experience
 - Skills
 - Projects
 - Contact Details
+- Footer links (Email, GitHub, LinkedIn)
 
 ## Run locally
 
