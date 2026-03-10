@@ -215,41 +215,6 @@ h2 {
   color: var(--muted);
 }
 
-.hero-card a,
-.contact-list a,
-.footer-links a {
-  color: var(--primary);
-  text-decoration: none;
-}
-
-.hero-card a:hover,
-.contact-list a:hover,
-.footer-links a:hover {
-  text-decoration: underline;
-}
-
-.profile-image {
-  width: 140px;
-  height: 140px;
-  border-radius: 50%;
-  object-fit: cover;
-  border: 2px solid var(--border);
-  margin-bottom: 1rem;
-}
-
-.footer-wrap {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  gap: 1rem;
-  flex-wrap: wrap;
-}
-
-.footer-links {
-  display: flex;
-  gap: 1rem;
-}
-
 @media (max-width: 900px) {
   .hero-grid,
   .two-col,
